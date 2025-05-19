@@ -1,16 +1,33 @@
-## Hi there 👋
+# Ali Radman
 
-<!--
-**3LiRad/3liRad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Analyst focused on offensive security, ethical hacking, and network exploitation.  
+eJPT certified. Currently building a portfolio of labs, tools, and honeypot experiments.
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Foundation Degree in Information Technology – Asia Pacific University (APU), Malaysia
+
+## ⚔️ Technical Skills
+
+- Exploitation: Web, Network, and Host-based attacks
+- Tools: Nmap, Burp Suite, Metasploit, Hydra, Wireshark, Gobuster, LinPEAS, winPEAS
+- Scripting: Python, Bash
+- Environments: Linux, Windows, Web Applications
+
+## 🧪 In Progress
+
+- A collection of writeups from INE, HackTheBox, and TryHackMe labs
+- Custom Python scripts for automation and reconnaissance
+- A lightweight honeypot to collect logs and analyze attacker behavior
+
+## 📜 Certifications
+
+- eLearnSecurity Junior Penetration Tester (eJPT)
+- Google Cybersecurity Certificate
+- Harvard CS50 Cybersecurity
+- PNPT preparation in progress
+
+## 📬 Contact
+
+- Email: aliahmnam5@gmail.com  
+- LinkedIn: [linkedin.com/in/ali-radman-46706430b](https://linkedin.com/in/ali-radman-46706430b)

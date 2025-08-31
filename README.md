@@ -22,10 +22,10 @@
 
 ## 🧪 Labs & Projects
 
-- 🔐 [Simple SSH Honeypot (Python)](https://github.com/3LiRad/Simple-SSH-Honeypot) – Lightweight honeypot that logs unauthorized SSH login attempts and attacker commands. Built with Python sockets to simulate a fake SSH service for log analysis and deception.
-- 📁 Writeups from HackTheBox Labs – Hands-on experience with enumeration, exploitation, and privilege escalation in various Linux and Windows environments.
-- ⚙️ Custom Exploits – Developing and testing tailored Python scripts for attack automation and CTF-style bypasses.
-
+- 🔐 [Simple SSH Honeypot (Python)](https://github.com/3LiRad/Simple-SSH-Honeypot) – Lightweight honeypot that logs unauthorized SSH login attempts and attacker commands.  
+- ⚙️ Custom Exploits – Python scripts for automation and CTF-style attack bypasses.  (on goning)
+- 🏴 [PNPT-Style Attack Lab](https://github.com/3LiRad/pnpt-attack-lab) – Full external → internal pivot → AD abuse → DC compromise with documentation.  (on going)
+- 🌐 [Personal Website (GitHub Pages)](https://github.com/3LiRad/3LiRad.github.io) – Portfolio site built with Tailwind & GitHub Pages to showcase projects and certifications.  
 ---
 
 ## 📜 Certifications

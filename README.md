@@ -30,10 +30,11 @@
 
 ## 📜 Certifications
 
-- ![Certified](https://img.shields.io/badge/eJPT-Certified-purple) – eLearnSecurity Junior Penetration Tester  
-- ![Google](https://img.shields.io/badge/Google-Cybersecurity-red) – Google Cybersecurity Certificate  
-- ![CS50](https://img.shields.io/badge/CS50-Harvard-brightgreen) – Harvard CS50 – Cybersecurity  
-- ![PNPT](https://img.shields.io/badge/PNPT-In_Progress-yellow) – Practical Network Penetration Tester *(In Progress)*
+![PNPT](https://img.shields.io/badge/PNPT-Certified-success) – Practical Network Penetration Tester  
+![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-purple) – eLearnSecurity Junior Penetration Tester  
+![Google](https://img.shields.io/badge/Google-Cybersecurity-red) – Google Cybersecurity Certificate  
+![CS50](https://img.shields.io/badge/CS50-Harvard-brightgreen) – Harvard CS50 – Cybersecurity  
+
 
 ---
 

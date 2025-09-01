@@ -1,52 +1,72 @@
-# 👨‍💻 Ali Radman
+# Ali Radman
 
-**Cybersecurity Analyst** focused on offensive security, ethical hacking, and network exploitation.  
-🎯 eJPT certified | 🧪 Building a portfolio of custom tools, honeypots, and real-world exploitation labs.
-
----
-
-## 🎓 Education
-
-- 🎓 Foundation Degree in Information Technology – Asia Pacific University (APU), Malaysia
+**Cybersecurity Analyst** focused on offensive security, red teaming, and detection engineering.  
+eJPT certified. Building a portfolio of real-world attack simulations, documentation-first playbooks, and defensive detections.
 
 ---
 
-## ⚔️ Technical Skills
+## Summary
 
-- **Exploitation:** Web, Network, and Host-based Attacks | Custom Exploit Development  
-- **Tools:** Nmap, Burp Suite, Metasploit, Hydra, Wireshark, Gobuster, LinPEAS, winPEAS  
-- **Scripting:** Python, Bash  
-- **Environments:** Linux, Windows, Web Applications
+I design lab-grade attack paths that map directly to detections and mitigations. My work emphasizes clarity for reviewers: each technique includes telemetry, SIEM queries, and hardening steps.
 
 ---
 
-## 🧪 Labs & Projects
+## Skills
 
-- 🔐 [Simple SSH Honeypot (Python)](https://github.com/3LiRad/Simple-SSH-Honeypot) – Lightweight honeypot that logs unauthorized SSH login attempts and attacker commands.  
-- ⚙️ Custom Exploits – Python scripts for automation and CTF-style attack bypasses.  (on goning)
-- 🏴 [PNPT-Style Attack Lab](https://github.com/3LiRad/pnpt-attack-lab) – Full external → internal pivot → AD abuse → DC compromise with documentation.  (on going)
-- 🌐 [Personal Website (GitHub Pages)](https://github.com/3LiRad/3LiRad.github.io) – Portfolio site built with Tailwind & GitHub Pages to showcase projects and certifications.  
----
-
-## 📜 Certifications
-
-![PNPT](https://img.shields.io/badge/PNPT-Certified-success) – Practical Network Penetration Tester  
-![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-purple) – eLearnSecurity Junior Penetration Tester  
-![Google](https://img.shields.io/badge/Google-Cybersecurity-red) – Google Cybersecurity Certificate  
-![CS50](https://img.shields.io/badge/CS50-Harvard-brightgreen) – Harvard CS50 – Cybersecurity  
-
+- **Attack & Discovery:** AD abuse, Kerberos attacks (Kerberoast, AS-REP), NTLM relay, delegation abuse, lateral movement
+- **Detection Engineering:** Windows Eventing, Sysmon, Sigma, Splunk query design
+- **Tools:** Nmap, Burp Suite, Metasploit, CrackMapExec, Impacket, Responder, mitm6, BloodHound, Wireshark, Hydra, Gobuster, winPEAS/linPEAS
+- **Scripting:** Python, Bash
+- **Platforms:** Windows, Linux, AD/LDAP, Web apps
 
 ---
 
-## 🚀 Currently Working On
+## Featured Projects
 
-- 📚 Preparing for **PNPT** – Full-scope internal network pentesting, report writing, and OSINT
-- 🛠️ Developing Python tools for automation and custom exploitation
-- 📖 Publishing detailed writeups and walkthroughs on GitHub from labs and CTFs
+- **Active Directory Attack Playbook — Red ↔ Blue**  
+  Documentation-first repo covering high-probability AD attack paths with detections and mitigations. Includes Mermaid network diagram, event IDs, Splunk queries, and Sigma examples.  
+  _Playbooks:_ Kerberoasting → DCSync, AS-REP Roasting, NTLM Relay (mitm6), ADCS ESC1 → PKINIT, Delegation Abuse, Credential Access (LSASS/SAM/DPAPI/Browser), Password Reuse, Process-memory strings leakage, Default/Shared Local Creds.  
+  Repo: https://github.com/3LiRad/ad-attack-playbook
+
+- **PNPT-Style Attack Lab (ongoing)**  
+  External → internal pivot → AD abuse → DC impact, fully documented with detections and mitigations.  
+  
+
+- **Simple SSH Honeypot (Python)**  
+  Lightweight honeypot that logs unauthorized SSH attempts and attacker commands for basic telemetry and enrichment.  
+  Repo: https://github.com/3LiRad/Simple-SSH-Honeypot
+
+- **Personal Website**  
+  Portfolio site (GitHub Pages + Tailwind) to showcase projects and certifications.  
+  Repo: https://github.com/3LiRad/3LiRad.github.io
 
 ---
 
-## 📬 Contact
+## Certifications
 
-- 📧 **Email:** aliahmnam5@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/ali-radman-46706430b](https://linkedin.com/in/ali-radman-46706430b)
+![PNPT](https://img.shields.io/badge/PNPT-Certified-success)
+![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-purple)
+![Google](https://img.shields.io/badge/Google-Cybersecurity-red)
+![CS50](https://img.shields.io/badge/CS50-Harvard-brightgreen)
+
+---
+
+## Education
+
+Foundation Degree in Information Technology — Asia Pacific University (APU), Malaysia
+
+---
+
+## Currently Working On
+
+- Adding screenshots and SIEM evidence to **ad-attack-playbook**
+- Extending detections (Splunk, Sigma) for password reuse and delegation scenarios
+- Hardening baselines for ADCS and lateral movement
+- Building a lightweight Windows lab for repeatable demos
+
+---
+
+## Contact
+
+- GitHub: https://github.com/3LiRad  
+- (Optional) LinkedIn: add your profile link here

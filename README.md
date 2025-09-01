@@ -1,53 +1,71 @@
 # Ali Radman
 
-**Cybersecurity Analyst** focused on offensive security, red teaming, and detection engineering.  
-eJPT certified. Building a portfolio of real-world attack simulations, documentation-first playbooks, and defensive detections.
+**Cybersecurity & Bug Bounty | Offensive Security | Detection Engineering**  
+Building practical attack simulations with clear detections and mitigations.
+
+- LinkedIn: https://www.linkedin.com/in/ali-radman-46706430b/  
+- GitHub: https://github.com/3LiRad
 
 ---
 
 ## Summary
 
-I design lab-grade attack paths that map directly to detections and mitigations. My work emphasizes clarity for reviewers: each technique includes telemetry, SIEM queries, and hardening steps.
+I focus on realistic attack paths and the blue-team visibility required to stop them. My projects document each technique with telemetry, SIEM queries, and hardening steps—so reviewers can map risk to controls quickly.
 
 ---
 
 ## Skills
 
-- **Attack & Discovery:** AD abuse, Kerberos attacks (Kerberoast, AS-REP), NTLM relay, delegation abuse, lateral movement
-- **Detection Engineering:** Windows Eventing, Sysmon, Sigma, Splunk query design
-- **Tools:** Nmap, Burp Suite, Metasploit, CrackMapExec, Impacket, Responder, mitm6, BloodHound, Wireshark, Hydra, Gobuster, winPEAS/linPEAS
+- **Offensive Security:** AD abuse (Kerberoast, AS-REP, NTLM relay, delegation), lateral movement, credential access  
+- **Bug Bounty & Web:** OSINT, recon, auth/session issues, IDOR, SSRF basics, misconfig hunting  
+- **Detection Engineering:** Windows Eventing, Sysmon, Sigma, Splunk query design  
+- **Networking:** TCP/IP, VLANs, routing, DHCP/DNS, VPNs, Wireshark analysis  
+- **IT Support / Help Desk:** Windows/Linux administration, endpoint hardening, ticketing, user support, patching  
+- **Tools:** Nmap, Burp Suite, Metasploit, CrackMapExec, Impacket, Responder, mitm6, BloodHound, Hydra, Gobuster, winPEAS/linPEAS  
 - **Scripting:** Python, Bash
-- **Platforms:** Windows, Linux, AD/LDAP, Web apps
+
+---
+
+## Experience
+
+**Bug Bounty Hunter – Freelance (Bugcrowd)** — *May 2025 – Present · Remote*  
+- Perform structured recon and OSINT to identify exposed assets and misconfigurations.  
+- Reproduce and document security issues with clear impact and safe proof-of-concept steps.  
+- Follow coordinated disclosure practices and platform triage workflows.
+
+**Network Security Analyst – Yemen Mobile (Part-time)** — *Apr 2024 – Aug 2024 · Remote / Aden*  
+- Ran internal security assessments and routine vulnerability checks across Windows and network services.  
+- Assisted with hardening tasks (account policies, endpoint controls, basic SIEM dashboards).  
+- Coordinated with IT support to remediate findings and improve baseline hygiene.
 
 ---
 
 ## Featured Projects
 
-- **Active Directory Attack Playbook — Red ↔ Blue**  
-  Documentation-first repo covering high-probability AD attack paths with detections and mitigations. Includes Mermaid network diagram, event IDs, Splunk queries, and Sigma examples.  
-  _Playbooks:_ Kerberoasting → DCSync, AS-REP Roasting, NTLM Relay (mitm6), ADCS ESC1 → PKINIT, Delegation Abuse, Credential Access (LSASS/SAM/DPAPI/Browser), Password Reuse, Process-memory strings leakage, Default/Shared Local Creds.  
-  Repo: https://github.com/3LiRad/ad-attack-playbook
+**Active Directory Attack Playbook — Red ↔ Blue**  
+Documentation-first repo covering high-probability AD attack paths with detections and mitigations. Includes Mermaid network diagram, Windows Event IDs, Splunk queries, and Sigma examples.  
+Repo: https://github.com/3LiRad/ad-attack-playbook
 
-- **PNPT-Style Attack Lab (ongoing)**  
-  External → internal pivot → AD abuse → DC impact, fully documented with detections and mitigations.  
-  
+**PNPT-Style Attack Lab (ongoing)**  
+External → internal pivot → AD abuse → DC impact, with detections and hardening.  
 
-- **Simple SSH Honeypot (Python)**  
-  Lightweight honeypot that logs unauthorized SSH attempts and attacker commands for basic telemetry and enrichment.  
-  Repo: https://github.com/3LiRad/Simple-SSH-Honeypot
 
-- **Personal Website**  
-  Portfolio site (GitHub Pages + Tailwind) to showcase projects and certifications.  
-  Repo: https://github.com/3LiRad/3LiRad.github.io
+**Simple SSH Honeypot (Python)**  
+Lightweight SSH honeypot for logging unauthorized attempts and attacker commands.  
+Repo: https://github.com/3LiRad/Simple-SSH-Honeypot
+
+**Personal Website (GitHub Pages)**  
+Portfolio site to host projects and certifications.  
+Repo: https://github.com/3LiRad/3LiRad.github.io
 
 ---
 
 ## Certifications
 
-![PNPT](https://img.shields.io/badge/PNPT-Certified-success)
-![eJPTv2](https://img.shields.io/badge/eJPTv2-Certified-purple)
-![Google](https://img.shields.io/badge/Google-Cybersecurity-red)
-![CS50](https://img.shields.io/badge/CS50-Harvard-brightgreen)
+- PNPT — Practical Network Penetration Tester  
+- eJPTv2 — eLearnSecurity Junior Penetration Tester  
+- Google Cybersecurity Certificate  
+- Harvard CS50 — Cybersecurity
 
 ---
 
@@ -59,14 +77,14 @@ Foundation Degree in Information Technology — Asia Pacific University (APU), M
 
 ## Currently Working On
 
-- Adding screenshots and SIEM evidence to **ad-attack-playbook**
-- Extending detections (Splunk, Sigma) for password reuse and delegation scenarios
-- Hardening baselines for ADCS and lateral movement
+- Adding screenshots and SIEM evidence to **ad-attack-playbook**  
+- Extending Sigma/Splunk analytics for password reuse and delegation  
 - Building a lightweight Windows lab for repeatable demos
-
+- Preparing for OSCP
 ---
 
-## Contact
+## Contacts
+- **LinkedIn:** [Ali Radman](https://www.linkedin.com/in/ali-radman-46706430b/)
+- **Email:** [aliahmnam5@gmail.com](mailto:aliahmnam5@gmail.com)
+- **Phone (KSA):** [+966 50 689 4277](tel:+966506894277)
 
-- GitHub: https://github.com/3LiRad  
-- (Optional) LinkedIn: add your profile link here
